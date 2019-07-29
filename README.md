@@ -1,3 +1,9 @@
 # Data Analysis Portfolio by Airiel Herrera
 
-This porfolio is a collection of notebooks and projects I have created for data analysis or 
+This porfolio is a collection of notebooks I have created for data analysis and quantitative research relative to political science.  
+
+## Undergraduate Research
+
+## Stand-alone Projects
+
+## Self Taught / Learning
